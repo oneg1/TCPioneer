@@ -1,6 +1,8 @@
 # GhosTCP
 GhosTCP is a program for Windows that protects the TCP connections from being interfered.  
 
+GhosTCP是Windows的一个程序，可以保护TCP连接免受干扰。
+
 ## Run as Client（后台服务运行)
 run tcpioneer.exe to start the program
 ## Run as Service （直接窗口运行）
