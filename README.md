@@ -28,7 +28,7 @@ run install.bat to install the service
   df                #the true tcp packets will not be fragmented
   https             #the domain below will be move to https when using http on port 80
 ```
-## How to get the TTL（如果获得TTL)
+## How to get the TTL（如何获得TTL)
 CMD运行
 tracert 8.8.8.8 
 set the ttl longer than the TTL to the node whose IP address is in your area and shorter than the TTL to the server.
