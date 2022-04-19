@@ -30,7 +30,7 @@ run install.bat to install the service
 ```
 ## How to get the TTL（如何获得TTL)
 CMD运行
-tracert 8.8.8.8 
+`tracert 8.8.8.8`
 set the ttl longer than the TTL to the node whose IP address is in your area and shorter than the TTL to the server.
 
 遇到无法链接的情况，需要手动调试修改配置文件中ttl的值比 8.8.8.8 的长
